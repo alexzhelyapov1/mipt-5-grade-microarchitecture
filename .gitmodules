@@ -1,0 +1,8 @@
+[submodule "third-party/ChampSim"]
+	path = third-party/ChampSim
+	url = git@github.com:alexzhelyapov1/ChampSim.git
+	branch = custom-branch
+[submodule "third-party/gem5"]
+	path = third-party/gem5
+	url = https://gem5.googlesource.com/public/gem5
+	branch = stable
